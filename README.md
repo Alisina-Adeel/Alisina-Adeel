@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-success" />
 </p>
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Alisina Adeel 👋</h1>
