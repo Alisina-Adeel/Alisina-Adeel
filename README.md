@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ALISINA%20ADEEL&fontAlignY=35&fontSize=75&animation=twinkling&fontColor=ffffff&color=0:020617,50:1D4ED8,100:000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ALISINA%20ADEEL&fontAlignY=35&fontSize=75&animation=twinkling&fontColor=ffffff&color=0:020617,40:0F172A,70:2563EB,100:000000" />
 
 </div>
 
@@ -12,23 +12,17 @@
 </div>
 
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB" />
-
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0F172A" />
-
-</p>
-
-
-<br>
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=22C55E&center=true&width=900&lines=%3E+Booting+Developer+Profile...;%3E+Loading+Frontend+Modules...;%3E+Connecting+Backend+Services...;%3E+Deploying+Cloud+Infrastructure...;%3E+SaaS+Platform+Ready+%E2%9C%85" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="850"/>
 
 </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=FFFFFF&center=true&width=900&lines={+loading+SaaS+environment+...+};{+snowing+code+particles+...+};const+app+=+new+SoftwareSystem();;deploy()+%3D%3E+cloud.success();;System+Online+%E2%9D%84%EF%B8%8F+%F0%9F%92%BB" />
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ALISINA%20ADEEL&fontAlignY=35&fontSize=75&animation=twinkling&fontColor=ffffff&color=0:020617,35:0F172A,60:1E40AF,100:38BDF8" />
 
 
 <br>
