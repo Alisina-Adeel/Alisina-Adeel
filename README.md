@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alisina%20Adeel&fontAlignY=35&fontSize=55&animation=fadeIn&fontColor=ffffff&color=0:000000,50:434343,100:ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Alisina%20Adeel&fontAlignY=35&fontSize=65&animation=twinkling&fontColor=ffffff&color=0:020024,25:090979,50:00d4ff,100:020024" />
 
 </div>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=32&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Software+Developer;Full-Stack+Engineer;Building+Modern+SaaS+Applications;Frontend+%7C+Backend+%7C+Cloud;Creating+Simple+Powerful+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=👋+Software+Developer;🚀+Full-Stack+Engineer;☁️+Building+Scalable+SaaS+Products;⚡+React+%7C+Node.js+%7C+Cloud;💻+Turning+Ideas+Into+Digital+Products" />
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=000000" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=000000" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF" />
+
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6366F1" />
+
 </p>
 
 
@@ -20,23 +23,23 @@
 
 
 <h1 align="center">
-  Hello, I'm Alisina Adeel 👋
+Hi, I'm Alisina Adeel 👋
 </h1>
 
 
 <p align="center">
-  <b>Software Developer</b>
+<b>Software Developer | SaaS Builder | Full-Stack Engineer</b>
 </p>
 
 
 <p align="center">
-  Designing and building scalable applications with clean architecture,
-  modern technologies, and exceptional user experiences.
+Building scalable software products with modern architecture,
+beautiful user experiences, and reliable backend systems.
 </p>
 
 
 <p align="center">
-  Frontend • Backend • SaaS • Cloud • System Design
+Frontend • Backend • Cloud • SaaS • System Design
 </p>
 
 
@@ -45,13 +48,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Think%20%E2%86%92%20Build%20%E2%86%92%20Scale&fontSize=35&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=6366F1&center=true&width=800&lines=const+developer+%3D+%7B;Frontend%3A+React+%7C+Next.js;Backend%3A+Node.js+%7C+APIs;Database%3A+MongoDB+%7C+PostgreSQL;Cloud%3A+Docker+%7C+Deployment;%7D" />
 
 </div>
 
 
 ---
-
 
 #  About Me
 
@@ -59,18 +61,18 @@
 I am a Software Developer with a Bachelor's degree in Computer Science and a graduate of the Software Development Bridging Program (SDBP) at Humber College.
 
 
-I enjoy creating software that combines:
+I enjoy creating:
 
-- Clean and modern interfaces
-- Scalable backend systems
-- Reliable APIs
-- User-focused experiences
-- Real-world problem solving
+✨ Clean and intuitive interfaces  
+⚡ High-performance applications  
+🚀 Scalable SaaS solutions  
+🔒 Secure backend systems  
+🌎 Real-world software products  
 
 
 ---
 
-# ✦ Technology Stack
+# 🛠 Technology Stack
 
 
 <p align="center">
@@ -85,10 +87,10 @@ I enjoy creating software that combines:
 # 🚀 Featured Projects
 
 
-## ◦ Huntigox — Real-Time Hiring & Fraud Detection Platform
+## 🔹 Huntigox — Real-Time Hiring & Fraud Detection Platform
 
 
-A trust-based recruitment platform designed to improve hiring transparency.
+A trust-based recruitment SaaS platform designed to improve hiring transparency.
 
 
 Features:
@@ -96,32 +98,30 @@ Features:
 - Real-time hiring workflow
 - Candidate verification
 - Fraud detection
-- Trust scoring
+- Trust scoring system
 - Post-hiring validation
 
 
 🔗 https://huntigox.com/
 
 
-<br>
+---
+
+## 🔹 Portfolio Website
 
 
-## ◦ Personal Portfolio Website
-
-
-A minimal portfolio experience showcasing projects, skills, and professional journey.
+A modern personal portfolio showcasing projects, skills, and experience.
 
 
 🔗 https://studio-delta-ashen-30.vercel.app/
 
 
-<br>
+---
+
+## 🔹 WordPress Website Development
 
 
-## ◦ WordPress Website Development
-
-
-Designed and maintained responsive WordPress websites with modern layouts and content management solutions.
+Responsive website development and content management solutions using WordPress.
 
 
 🔗 https://goto.network/chair/
@@ -141,6 +141,7 @@ Database Design █████████████████ 88%
 
 Cloud & DevOps ██████████████ 75%
 
+
 ---
 
 # 📊 GitHub Analytics
@@ -148,16 +149,16 @@ Cloud & DevOps ██████████████ 75%
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -169,7 +170,7 @@ Cloud & DevOps ██████████████ 75%
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
 
 </p>
 
@@ -188,33 +189,33 @@ Cloud & DevOps ██████████████ 75%
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
 
-◦ Advanced React Architecture  
-◦ SaaS Product Development  
-◦ Cloud Infrastructure  
-◦ AI-Powered Applications  
-◦ System Design  
+🚀 Advanced React Architecture  
+☁️ Cloud Infrastructure  
+🤖 AI-Powered Applications  
+🏗 System Design  
+📦 SaaS Product Development  
 
 
 ---
 
-# 🤝 Connect
+# 🤝 Connect With Me
 
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/alisina-adeel">
 
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
 
 
 <a href="mailto:Alisinaadeel@icloud.com">
 
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </a>
 
@@ -226,7 +227,7 @@ Cloud & DevOps ██████████████ 75%
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ffffff,50:e5e5e5,100:000000&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:020024,50:00d4ff,100:6366F1" />
 
 </div>
 
