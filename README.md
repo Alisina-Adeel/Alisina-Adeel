@@ -1,144 +1,135 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Alisina+Adeel;Full-Stack+Software+Developer;Building+Modern+SaaS+Applications;Frontend+%7C+Backend+%7C+Cloud;Turning+Ideas+Into+Scalable+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Alisina+Adeel;Software+Developer;Building+Scalable+SaaS+Applications;Frontend+%7C+Backend+%7C+Cloud;Turning+Ideas+Into+Software" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="Banner.png" alt="Banner" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Alisina Adeel</h1>
 
 <h3 align="center">
-Building Scalable SaaS Products & Modern Web Applications
+Software Developer • SaaS Builder • Problem Solver
 </h3>
 
 <p align="center">
-Software Developer with a Computer Science degree and graduate of Humber College's Software Development Bridging Program (SDBP).
+Building scalable applications, modern user experiences, and reliable backend systems.
 </p>
+
+---
+
+## ⚡ Software Engineering Focus
+
+```text
+Frontend  ━━━━━━━━━━━━━━━━━━━━ 95%
+Backend   ━━━━━━━━━━━━━━━━━━   90%
+APIs      ━━━━━━━━━━━━━━━━━━━  92%
+Databases ━━━━━━━━━━━━━━━━━━   88%
+Cloud     ━━━━━━━━━━━━━━━      75%
+```
+
+---
+
+## 🛠 Technology Stack
 
 <p align="center">
-Passionate about creating high-performance applications, solving real-world problems, and delivering exceptional user experiences.
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgresql,tailwind,html,css,git,github,vscode,postman" />
 </p>
 
 ---
 
-# ⚡ About Me
+## 🚀 Featured Projects
 
-🚀 Full-Stack Software Developer
-
-💻 Frontend, Backend & SaaS Development
-
-🌎 Based in Toronto, Canada
-
-📚 Continuously learning Cloud, AI & System Design
-
-🎯 Interested in Software Developer, Frontend Developer, Backend Developer & Full-Stack roles
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,postgresql,tailwind,html,css,git,github,vscode,postman" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 Huntigox — Real-Time Hiring & Fraud Detection Platform
-
-Trust-based recruitment platform featuring:
+### Huntigox — Real-Time Hiring & Fraud Detection Platform
 
 * Real-time hiring workflows
 * Candidate verification
 * Fraud detection
+* Trust scoring
 * Post-hiring validation
-* Trust scoring system
 
 🔗 https://huntigox.com/
 
----
-
-### 🔹 Portfolio Website
-
-Personal portfolio showcasing projects, skills, and professional experience.
+### Portfolio Website
 
 🔗 https://studio-delta-ashen-30.vercel.app/
 
----
-
-### 🔹 WordPress Website
-
-Designed and maintained responsive WordPress websites with custom content management solutions.
+### WordPress Website
 
 🔗 https://goto.network/chair/
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Engineering Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🐍 Contribution Animation
 
-* Advanced React & Next.js
-* Scalable SaaS Architecture
-* Cloud Technologies
-* AI-Powered Applications
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ⚙️ Development Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,react,nodejs,mongodb,git,github,docker" />
+</p>
+
+<p align="center">
+Design → Develop → Test → Deploy → Scale
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* SaaS Architecture
 * System Design
+* Cloud Infrastructure
+* AI-Powered Applications
+* Advanced React & Next.js
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/alisina-adeel">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-<a href="https://www.linkedin.com/in/alisina-adeel">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:Alisinaadeel@icloud.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="mailto:Alisinaadeel@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Building software that is scalable, impactful, and user-focused.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=footer" />
 </p>
