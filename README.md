@@ -3,6 +3,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Alisina%20Adeel&fontAlignY=35&fontSize=65&animation=twinkling&fontColor=ffffff&color=0:020024,25:090979,50:00d4ff,100:020024" />
 
 </div>
+<div align="center">
+
+<details>
+<summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alisina%20Adeel&fontAlignY=35&fontSize=60&animation=twinkling&fontColor=ffffff&color=0:000000,50:0071e3,100:000000" />
+</summary>
+
+<br>
+
+<h1>
+👋 Welcome! I'm Alisina Adeel
+</h1>
+
+<p>
+🚀 Software Developer | Full-Stack Engineer | SaaS Builder
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=800&color=00D9FF&center=true&width=700&lines=Frontend+Developer;Backend+Developer;SaaS+Application+Builder;Cloud+%26+System+Design;Always+Learning+New+Technology" />
+
+<br><br>
+
+### 💻 My Skills
 
 
 <p align="center">
