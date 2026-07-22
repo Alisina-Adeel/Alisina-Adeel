@@ -24,17 +24,17 @@
 ### 🔹 Real-Time Live Hiring, Verification & Fraud Detection System
 Trust-based recruitment platform with real-time hiring, user verification, fraud detection, and post-hiring validation.
 
-🔗 Repository: https://github.com/yourusername/hiring-system
+🔗 Repository: https://huntigox.com/
 
 ### 🔹 Portfolio Website
 Personal portfolio showcasing projects, skills, and experience.
 
-🔗 Repository: https://github.com/yourusername/portfolio
+🔗 Repository: https://studio-delta-ashen-30.vercel.app/
 
 ### 🔹 Full-Stack Web Application
-Built using React, Node.js, Express, and MongoDB.
+Developed and maintained websites using WordPress.
 
-🔗 Repository: https://github.com/yourusername/fullstack-app
+🔗 Repository: https://goto.network/chair/
 
 ---
 
@@ -67,7 +67,7 @@ Git • GitHub • Postman • VS Code
 
 💼 LinkedIn: www.linkedin.com/in/alisina-adeel
 
-📧 Email: your-email@example.com
+📧 Email: Alisinaadeel@icloud.com
 
 ---
 
