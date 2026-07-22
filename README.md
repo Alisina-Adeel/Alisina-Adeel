@@ -1,98 +1,144 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alisina+Adeel+%F0%9F%91%8B;Software+Developer;Frontend+%7C+Backend+%7C+Full-Stack;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Alisina+Adeel;Full-Stack+Software+Developer;Building+Modern+SaaS+Applications;Frontend+%7C+Backend+%7C+Cloud;Turning+Ideas+Into+Scalable+Products" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-Developer-blue" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-success" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="Banner.png" alt="Banner" />
+  <img src="Banner.png" alt="Banner" width="100%" />
 </p>
+
+<h1 align="center">👋 Hi, I'm Alisina Adeel</h1>
 
 <h3 align="center">
-  Full-Stack Developer • React • Node.js • MongoDB
+Building Scalable SaaS Products & Modern Web Applications
 </h3>
 
 <p align="center">
-  Building modern web applications and turning ideas into real-world solutions.
+Software Developer with a Computer Science degree and graduate of Humber College's Software Development Bridging Program (SDBP).
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME" />
+Passionate about creating high-performance applications, solving real-world problems, and delivering exceptional user experiences.
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ About Me
 
-### 🔹 Real-Time Live Hiring, Verification & Fraud Detection System
+🚀 Full-Stack Software Developer
 
-Trust-based recruitment platform with real-time hiring, user verification, fraud detection, and post-hiring validation.
+💻 Frontend, Backend & SaaS Development
+
+🌎 Based in Toronto, Canada
+
+📚 Continuously learning Cloud, AI & System Design
+
+🎯 Interested in Software Developer, Frontend Developer, Backend Developer & Full-Stack roles
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,postgresql,tailwind,html,css,git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Huntigox — Real-Time Hiring & Fraud Detection Platform
+
+Trust-based recruitment platform featuring:
+
+* Real-time hiring workflows
+* Candidate verification
+* Fraud detection
+* Post-hiring validation
+* Trust scoring system
 
 🔗 https://huntigox.com/
 
+---
+
 ### 🔹 Portfolio Website
 
-Personal portfolio showcasing projects, skills, and experience.
+Personal portfolio showcasing projects, skills, and professional experience.
 
 🔗 https://studio-delta-ashen-30.vercel.app/
 
+---
+
 ### 🔹 WordPress Website
 
-Developed and maintained websites using WordPress.
+Designed and maintained responsive WordPress websites with custom content management solutions.
 
 🔗 https://goto.network/chair/
 
 ---
 
-## 💻 Tech Stack
-
-### Frontend
-
-React • JavaScript • TypeScript • Tailwind CSS
-
-### Backend
-
-Node.js • Express.js • REST APIs
-
-### Database
-
-MongoDB • PostgreSQL
-
-### Tools
-
-Git • GitHub • Postman • VS Code
-
----
-
-## 🌱 Currently Learning
-
-* Advanced React
-* System Design
-* Cloud Technologies
-* AI-Powered Applications
-
----
-
-## 📫 Connect
-
-💼 LinkedIn: [www.linkedin.com/in/alisina-adeel](http://www.linkedin.com/in/alisina-adeel)
-
-📧 Email: [Alisinaadeel@icloud.com](mailto:Alisinaadeel@icloud.com)
-
----
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <i>"Building simple, scalable, and meaningful software."</i>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced React & Next.js
+* Scalable SaaS Architecture
+* Cloud Technologies
+* AI-Powered Applications
+* System Design
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/alisina-adeel">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:Alisinaadeel@icloud.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>Building software that is scalable, impactful, and user-focused.</i>
 </p>
